@@ -13,7 +13,7 @@ customize:
         height: 35
         url: /img/logo.png
     profile:
-        enabled: true # Whether to show profile bar
+        enabled: false # Whether to show profile bar
         avatar: /img/logo.png # css/images/avatar.png
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
         author: holten ko
